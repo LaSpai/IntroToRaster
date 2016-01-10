@@ -1,0 +1,25 @@
+[general]
+creator=R package 'raster'
+created=2016-01-10 16:32:47
+[georeference]
+nrows=1094
+ncols=1057
+xmin=657793
+ymin=5748086
+xmax=689503
+ymax=5780906
+projection=+proj=utm +zone=31 +datum=WGS84 +units=m +no_defs +ellps=WGS84 +towgs84=0,0,0
+[data]
+datatype=INT2S
+byteorder=little
+nbands=15
+bandorder=BIL
+minvalue=0:255:9:73:-582:-310:13:-76:-108:255:255:255:NA:255:255
+maxvalue=4:255:96:16000:16000:16000:16000:16000:16000:255:255:255:NA:255:255
+nodatavalue=-32768
+[legend]
+legendtype=
+values=
+color=
+[description]
+layername=LT51980241990098KIS00_cfmask:LT51980241990098KIS00_sr_adjacent_cloud_qa:LT51980241990098KIS00_sr_atmos_opacity:LT51980241990098KIS00_sr_band1:LT51980241990098KIS00_sr_band2:LT51980241990098KIS00_sr_band3:LT51980241990098KIS00_sr_band4:LT51980241990098KIS00_sr_band5:LT51980241990098KIS00_sr_band7:LT51980241990098KIS00_sr_cloud_qa:LT51980241990098KIS00_sr_cloud_shadow_qa:LT51980241990098KIS00_sr_ddv_qa:LT51980241990098KIS00_sr_fill_qa:LT51980241990098KIS00_sr_land_water_qa:LT51980241990098KIS00_sr_snow_qa
